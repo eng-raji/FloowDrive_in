@@ -1,0 +1,9 @@
+<suite name="Regression Test Suite">
+    <test name="App Test" preserve-order="true">
+       
+        <classes>
+            <class name="com.floowdrive.testclasses.LandingTest"/>
+            
+        </classes>
+    </test>
+</suite>
